@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Sarah Nishikawa 👋
+I'm currently a 2nd year at Northeastern studying Computer Science!
+
 
 <!--
 **sarahnishikawa89/sarahnishikawa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
