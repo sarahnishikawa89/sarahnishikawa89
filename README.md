@@ -41,7 +41,8 @@ I'm currently working on a full-stack web application that transforms beauty pro
 ## 💌 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarah-nishikawa-55a8bb3a6/)
 - 💻 [GitHub](https://github.com/sarahnishikawa89)
-- 📬 [Email](mailto:nishikawa.s@northeastern.edu)
+- 📬 nishikawa.s@northeastern.edu
+
 
 <div align="center">
 🌷 Thanks for stopping by! 🌷
