@@ -27,6 +27,16 @@ I'm currently working on a full-stack web application that transforms beauty pro
 
 ---
 
+## 🛠️ Tech Stack
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,fastapi,postgres,git,linux" />
+
+
+</div>
+
+---
+
 
 ## 💌 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarah-nishikawa-55a8bb3a6/)
